@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
@@ -34,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
@@ -43,8 +45,14 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramkumar0502/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
