@@ -28,6 +28,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +56,9 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
+## Simulation
+|  |
+| ------- |
+| [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 <!---LeetCode Topics End-->
