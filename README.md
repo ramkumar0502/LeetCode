@@ -34,6 +34,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/0054-spiral-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 ## Greedy
@@ -61,6 +62,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramkumar0502/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramkumar0502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
@@ -85,8 +87,17 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
