@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramkumar0502/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/ramkumar0502/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramkumar0502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/ramkumar0502/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1078-remove-outermost-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ramkumar0502/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramkumar0502/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/ramkumar0502/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramkumar0502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
