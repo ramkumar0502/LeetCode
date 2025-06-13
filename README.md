@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramkumar0502/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/ramkumar0502/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramkumar0502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/ramkumar0502/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -21,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ramkumar0502/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Sliding Window
 |  |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/ramkumar0502/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 ## Matrix
@@ -110,4 +113,8 @@
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/ramkumar0502/LeetCode/tree/master/0607-sales-person) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
