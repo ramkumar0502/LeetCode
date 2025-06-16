@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
+| [0507-perfect-number](https://github.com/ramkumar0502/LeetCode/tree/master/0507-perfect-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ramkumar0502/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Sliding Window
 |  |
