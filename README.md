@@ -25,6 +25,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ramkumar0502/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/ramkumar0502/LeetCode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ramkumar0502/LeetCode/tree/master/0507-perfect-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ramkumar0502/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Sliding Window
@@ -41,6 +42,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ramkumar0502/LeetCode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/ramkumar0502/LeetCode/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [1755-defuse-the-bomb](https://github.com/ramkumar0502/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -123,4 +125,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ramkumar0502/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ramkumar0502/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
