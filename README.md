@@ -14,6 +14,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ramkumar0502/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ramkumar0502/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
@@ -21,6 +22,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
