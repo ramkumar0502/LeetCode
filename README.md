@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -95,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ramkumar0502/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
