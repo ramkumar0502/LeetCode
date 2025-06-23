@@ -127,6 +127,7 @@
 | [0234-palindrome-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0838-design-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ramkumar0502/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0838-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
