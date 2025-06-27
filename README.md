@@ -20,6 +20,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ramkumar0502/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ramkumar0502/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ramkumar0502/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/ramkumar0502/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ramkumar0502/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
