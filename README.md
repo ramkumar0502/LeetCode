@@ -36,6 +36,7 @@
 | [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/ramkumar0502/LeetCode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ramkumar0502/LeetCode/tree/master/0507-perfect-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ramkumar0502/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ramkumar0502/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Sliding Window
@@ -47,6 +48,7 @@
 | [0940-fruit-into-baskets](https://github.com/ramkumar0502/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramkumar0502/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ramkumar0502/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/ramkumar0502/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -65,6 +67,7 @@
 | [0940-fruit-into-baskets](https://github.com/ramkumar0502/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramkumar0502/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/ramkumar0502/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -110,6 +113,7 @@
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/ramkumar0502/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
@@ -192,4 +196,5 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramkumar0502/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
