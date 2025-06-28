@@ -48,6 +48,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ramkumar0502/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ramkumar0502/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ramkumar0502/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramkumar0502/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -68,6 +69,7 @@
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/ramkumar0502/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ramkumar0502/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramkumar0502/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/ramkumar0502/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -91,6 +93,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ramkumar0502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ramkumar0502/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ramkumar0502/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
@@ -115,6 +118,7 @@
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/ramkumar0502/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ramkumar0502/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
