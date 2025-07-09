@@ -11,7 +11,7 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         List<Integer>obj=new ArrayList<>();
-        List<Integer> obj2=new ArrayList<>();
+        List<Integer>obj2=new ArrayList<>();
        ListNode temp=head;
        while(temp!=null)
        {
