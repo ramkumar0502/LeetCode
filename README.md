@@ -22,6 +22,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ramkumar0502/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ramkumar0502/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3533-snake-in-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
+| [3533-snake-in-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0657-robot-return-to-origin](https://github.com/ramkumar0502/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ramkumar0502/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
+| [3533-snake-in-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Matrix
 |  |
 | ------- |
