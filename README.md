@@ -66,6 +66,7 @@
 | [0066-plus-one](https://github.com/ramkumar0502/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/ramkumar0502/LeetCode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/ramkumar0502/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
@@ -178,6 +179,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ramkumar0502/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0838-design-linked-list) |
 ## Hash Function
@@ -211,6 +213,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ramkumar0502/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramkumar0502/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
