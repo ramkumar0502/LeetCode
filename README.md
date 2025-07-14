@@ -80,6 +80,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
+| [2714-left-and-right-sum-differences](https://github.com/ramkumar0502/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3533-snake-in-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
@@ -219,6 +220,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramkumar0502/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2714-left-and-right-sum-differences](https://github.com/ramkumar0502/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## String Matching
 |  |
 | ------- |
