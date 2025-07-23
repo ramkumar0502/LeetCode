@@ -66,6 +66,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ramkumar0502/LeetCode/tree/master/0066-plus-one) |
@@ -119,6 +120,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/ramkumar0502/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
