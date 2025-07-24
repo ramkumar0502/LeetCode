@@ -5,29 +5,40 @@ class Solution {
        int end=s.length()-1;
        while(start<end)
        {
-        
-        if(!isVowels(arr[start]))
+        char c1=arr[start];
+        char c2=arr[end];
+        if(isVowels(c1)&&isVowels(c2))
         {
-            start++;
-        }
-        else if(!isVowels(arr[end]))
-        {
-            end--;
-    
-        }else{
-            
             char temp=arr[start];
             arr[start]=arr[end];
             arr[end]=temp;
             start++;
             end--;
         }
+        else if(isVowels(c1)&& !isVowels(c2))
+        {
+            end--;
+        }
+        else if(!isVowels(c1)&& isVowels(c2))
+        {
+            start++;
+        }
+        else
+        {
+            start++;
+            end--;
+        }
+
        }
-       return String.valueOf(arr);
+       String str=new String(arr);
+       return str;
        }
-       public static boolean isVowels(char ch)
+       public boolean isVowels(char ch)
        {
-        return ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U';
-        
+        if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U')
+        {
+            return true;
+        }
+        return false;
+       }
     }
-}
