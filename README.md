@@ -70,6 +70,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ramkumar0502/LeetCode/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ramkumar0502/LeetCode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ramkumar0502/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramkumar0502/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramkumar0502/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ramkumar0502/LeetCode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ramkumar0502/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
