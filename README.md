@@ -45,6 +45,7 @@
 | [0507-perfect-number](https://github.com/ramkumar0502/LeetCode/tree/master/0507-perfect-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ramkumar0502/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ramkumar0502/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ramkumar0502/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Sliding Window
 |  |
@@ -95,6 +96,7 @@
 | [1755-defuse-the-bomb](https://github.com/ramkumar0502/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/ramkumar0502/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2102-find-the-middle-index-in-array](https://github.com/ramkumar0502/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ramkumar0502/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ramkumar0502/LeetCode/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ramkumar0502/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
