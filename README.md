@@ -77,6 +77,7 @@
 | [0054-spiral-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ramkumar0502/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/ramkumar0502/LeetCode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/ramkumar0502/LeetCode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ramkumar0502/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramkumar0502/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -287,5 +288,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ramkumar0502/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/ramkumar0502/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
