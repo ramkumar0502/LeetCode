@@ -20,6 +20,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ramkumar0502/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/ramkumar0502/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1078-remove-outermost-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ramkumar0502/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ramkumar0502/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -44,6 +45,7 @@
 | [0739-daily-temperatures](https://github.com/ramkumar0502/LeetCode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/ramkumar0502/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ramkumar0502/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/ramkumar0502/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Math
