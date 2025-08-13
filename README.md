@@ -91,6 +91,7 @@
 | [0042-trapping-rain-water](https://github.com/ramkumar0502/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ramkumar0502/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ramkumar0502/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ramkumar0502/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ramkumar0502/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ramkumar0502/LeetCode/tree/master/0078-subsets) |
 ## Enumeration
 |  |
 | ------- |
@@ -334,4 +336,8 @@
 | [0739-daily-temperatures](https://github.com/ramkumar0502/LeetCode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/ramkumar0502/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/ramkumar0502/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ramkumar0502/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
