@@ -24,10 +24,7 @@ class Solution {
        int i=0;
        for(int val:nums1)
        {
-        if(map.containsKey(val))
-        {
-            result[i++]=(int)map.get(val);
-        }
+         result[i++]=(int)map.get(val);
        }
        return result;
         
