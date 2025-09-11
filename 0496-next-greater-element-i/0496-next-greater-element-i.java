@@ -24,7 +24,7 @@ class Solution {
        int i=0;
        for(int val:nums1)
        {
-         result[i++]=(int)map.get(val);
+         result[i++]=map.get(val);
        }
        return result;
         
