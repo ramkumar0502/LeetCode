@@ -31,6 +31,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ramkumar0502/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3533-snake-in-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramkumar0502/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/ramkumar0502/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramkumar0502/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramkumar0502/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [1813-maximum-erasure-value](https://github.com/ramkumar0502/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramkumar0502/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramkumar0502/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
