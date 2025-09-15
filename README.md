@@ -22,6 +22,7 @@
 | [0657-robot-return-to-origin](https://github.com/ramkumar0502/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1078-remove-outermost-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ramkumar0502/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ramkumar0502/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ramkumar0502/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -196,6 +197,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ramkumar0502/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ramkumar0502/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ramkumar0502/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ramkumar0502/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramkumar0502/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/ramkumar0502/LeetCode/tree/master/1813-maximum-erasure-value) |
