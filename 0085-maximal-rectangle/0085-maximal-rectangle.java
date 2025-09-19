@@ -36,7 +36,7 @@ class Solution {
             while (!st.isEmpty() && array[st.peek()] > array[i]) {
                 current = st.pop();
                 if (st.isEmpty()) {
-                    cal = array[current] * i;
+                    cal = array[current] * (i-(-1)-1);
                 } else {
                     cal = array[current] * (i - st.peek() - 1);
                 }
