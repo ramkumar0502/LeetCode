@@ -3,67 +3,68 @@ class Solution {
         return maxsubarray(nums) - minsubarray(nums);
     }
 
-    public long minsubarray(int[] arr) {
-        int n = arr.length;
-        long total = 0;
-        Stack<Integer> st = new Stack<>();
-        int[] ple = new int[n];
-        int[] nle = new int[n];
-
-  
-        for (int i = 0; i < n; i++) {
-            while (!st.isEmpty() && arr[st.peek()] > arr[i]) {
+    public long minsubarray(int nums[])
+    {
+        Stack<Integer> st=new Stack<>();
+        int pse[]=new int[nums.length];
+        int nse[]=new int[nums.length];
+        
+        long total=0;
+        for(int i=0;i<nums.length;i++)
+        {
+            while((!st.isEmpty())&&nums[st.peek()]>nums[i])
+            {
                 st.pop();
             }
-            ple[i] = st.isEmpty() ? i + 1 : i - st.peek();
+            pse[i]=st.isEmpty()?i+1:i-st.peek();
             st.push(i);
         }
-
         st.clear();
-
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.isEmpty() && arr[st.peek()] >= arr[i]) {
-                st.pop();
-            }
-            nle[i] = st.isEmpty() ? n - i : st.peek() - i;
-            st.push(i);
+        for(int i=nums.length-1;i>=0;i--)
+        {
+          while((!st.isEmpty())&&nums[st.peek()]>=nums[i])
+          {
+            st.pop();
+          }
+          nse[i]=st.isEmpty()?nums.length-i:st.peek()-i;
+          st.push(i);
         }
-
-        for (int i = 0; i < n; i++) {
-            total += 1L * arr[i] * ple[i] * nle[i];
+        for(int i=0;i<nums.length;i++)
+        {
+             total+=(long)nums[i]*pse[i]*nse[i];
         }
         return total;
+        
+
     }
-
-    public long maxsubarray(int[] arr) {
-        int n = arr.length;
-        long total = 0;
-        Stack<Integer> st = new Stack<>();
-        int[] pge = new int[n];
-        int[] nge = new int[n];
-
-      
-        for (int i = 0; i < n; i++) {
-            while (!st.isEmpty() && arr[st.peek()] < arr[i]) {
-                st.pop();
-            }
-            pge[i] = st.isEmpty() ? i + 1 : i - st.peek();
-            st.push(i);
+    public long maxsubarray(int nums[])
+    {
+       Stack<Integer> st=new Stack<>();
+        long total=0;
+        int pge[]=new int[nums.length];
+        int nge[]=new int[nums.length];
+        for(int i=0;i<nums.length;i++)
+        {
+          while((!st.isEmpty())&&nums[st.peek()]<nums[i])
+          {
+            st.pop();
+          }
+          pge[i]=st.isEmpty()?i+1:i-st.peek();
+          st.push(i);
         }
-
         st.clear();
-
-
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.isEmpty() && arr[st.peek()] <= arr[i]) {
-                st.pop();
+        for(int i=nums.length-1;i>=0;i--)
+        {
+            while((!st.isEmpty())&&nums[st.peek()]<=nums[i])
+            {
+              st.pop();
             }
-            nge[i] = st.isEmpty() ? n - i : st.peek() - i;
+            nge[i]=st.isEmpty()?nums.length-i:st.peek()-i;
             st.push(i);
         }
-
-        for (int i = 0; i < n; i++) {
-            total += 1L * arr[i] * pge[i] * nge[i];
+        for(int i=0;i<nums.length;i++)
+        {
+            total+=(long)nums[i]*pge[i]*nge[i];
         }
         return total;
     }
