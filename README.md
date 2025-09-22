@@ -139,6 +139,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2714-left-and-right-sum-differences](https://github.com/ramkumar0502/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ramkumar0502/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3533-snake-in-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
@@ -163,6 +164,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/ramkumar0502/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramkumar0502/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ramkumar0502/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramkumar0502/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -204,6 +206,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/ramkumar0502/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramkumar0502/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ramkumar0502/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramkumar0502/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
