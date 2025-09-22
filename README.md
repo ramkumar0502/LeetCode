@@ -49,6 +49,7 @@
 | [0503-next-greater-element-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ramkumar0502/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ramkumar0502/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/ramkumar0502/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ramkumar0502/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ramkumar0502/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -282,6 +283,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ramkumar0502/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/ramkumar0502/LeetCode/tree/master/0937-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | [0496-next-greater-element-i](https://github.com/ramkumar0502/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ramkumar0502/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/ramkumar0502/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ramkumar0502/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/ramkumar0502/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
@@ -372,4 +375,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ramkumar0502/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ramkumar0502/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
