@@ -197,6 +197,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ramkumar0502/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ramkumar0502/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ramkumar0502/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/ramkumar0502/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ramkumar0502/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ramkumar0502/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
@@ -264,6 +265,7 @@
 | [0234-palindrome-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/ramkumar0502/LeetCode/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0838-design-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ramkumar0502/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -281,6 +283,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ramkumar0502/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ramkumar0502/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ramkumar0502/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/ramkumar0502/LeetCode/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/ramkumar0502/LeetCode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/ramkumar0502/LeetCode/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/ramkumar0502/LeetCode/tree/master/0937-online-stock-span) |
@@ -379,4 +382,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/ramkumar0502/LeetCode/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/ramkumar0502/LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
