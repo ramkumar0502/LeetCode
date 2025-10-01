@@ -1,25 +1,24 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> result=new ArrayList<>();
-        List<Integer> inner=new ArrayList<>();
-        int length=nums.length;
-        int start=0;
-        call(start,nums,result,inner,length);
-        return result;
+        List<List<Integer>> outer=new ArrayList<>();
+        List<Integer> inner=new ArrayList<>(); 
+        rec(nums,0,outer,inner,nums.length);
+        return outer;
 
-        
+
     }
-    public void call(int start,int array[],List<List<Integer>> result,List<Integer>inner,int n)
+    public static void rec(int a[],int start,List<List<Integer>> outer,List<Integer> inner,int length)
     {
-        if(start>=n)
+        if(start>=length)
         {
-            result.add(new ArrayList<>(inner));
+            outer.add(new ArrayList<>(inner));
             return;
         }
-        inner.add(array[start]);
-        call(start+1,array,result,inner,n);
+        inner.add(a[start]);
+        rec(a,start+1,outer,inner,length);
         inner.remove(inner.size()-1);
-        call(start+1,array,result,inner,n);
+        rec(a,start+1,outer,inner,length);
+
 
     }
 }
