@@ -91,6 +91,7 @@
 | [1755-defuse-the-bomb](https://github.com/ramkumar0502/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/ramkumar0502/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ramkumar0502/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramkumar0502/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -145,6 +146,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/ramkumar0502/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ramkumar0502/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramkumar0502/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2714-left-and-right-sum-differences](https://github.com/ramkumar0502/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ramkumar0502/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -218,6 +220,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramkumar0502/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/ramkumar0502/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramkumar0502/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramkumar0502/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ramkumar0502/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ramkumar0502/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
