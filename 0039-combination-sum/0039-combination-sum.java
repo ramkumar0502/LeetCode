@@ -1,33 +1,29 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> result=new ArrayList<>();
-        List<Integer> current=new ArrayList<>();
-        
-        call(candidates,0,0,target,result,current);
-        return result;
+       List<List<Integer>> result=new ArrayList<>();
+       List<Integer>li=new ArrayList<>();
+       int sum=0;
+       int index=0;
+       int n=candidates.length;
+       value(candidates,target,sum,result,li,index,n);
+       return result;
 
     }
-    public void call(int[] candidates,int start,int sum,int target,List<List<Integer>> result,List<Integer> current)
+    public static void value(int candidates[],int target,int sum,List<List<Integer>> result,List<Integer>li,int index,int n)
     {
-        
         if(target==0)
         {
-            result.add(new ArrayList<>(current));
+            result.add(new ArrayList<>(li));
             return;
         }
- 
-        if(start==candidates.length || target<0)
+        if(index==n||target<0)
         {
             return;
         }
-       
-        sum+=candidates[start];
-        current.add(candidates[start]);
-        target-=candidates[start];
-        call(candidates,start,sum,target,result,current);
-        sum-=candidates[start];
-        current.remove(current.size()-1);
-        target+=candidates[start];
-        call(candidates,start+1,sum,target,result,current);
+        li.add(candidates[index]);
+        value(candidates,target-candidates[index],sum+candidates[index],result,li,index,n);
+        li.remove(li.size()-1);
+        value(candidates ,target,sum,result,li,index+1,n);
+
     }
 }
