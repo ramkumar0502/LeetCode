@@ -311,6 +311,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ramkumar0502/LeetCode/tree/master/0175-combine-two-tables) |
 | [0607-sales-person](https://github.com/ramkumar0502/LeetCode/tree/master/0607-sales-person) |
 ## Bit Manipulation
 |  |
