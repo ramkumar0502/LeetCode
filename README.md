@@ -28,6 +28,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramkumar0502/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramkumar0502/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ramkumar0502/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ramkumar0502/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ramkumar0502/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/ramkumar0502/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -70,6 +71,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ramkumar0502/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/ramkumar0502/LeetCode/tree/master/1642-water-bottles) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ramkumar0502/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ramkumar0502/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ramkumar0502/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ramkumar0502/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Sliding Window
@@ -148,6 +150,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ramkumar0502/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2227-sum-of-subarray-ranges](https://github.com/ramkumar0502/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramkumar0502/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ramkumar0502/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ramkumar0502/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramkumar0502/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2698-find-the-array-concatenation-value](https://github.com/ramkumar0502/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
@@ -264,6 +267,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ramkumar0502/LeetCode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ramkumar0502/LeetCode/tree/master/0085-maximal-rectangle) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ramkumar0502/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Queue
 |  |
 | ------- |
