@@ -74,6 +74,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ramkumar0502/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ramkumar0502/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ramkumar0502/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ramkumar0502/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -324,6 +325,7 @@
 | [0067-add-binary](https://github.com/ramkumar0502/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ramkumar0502/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ramkumar0502/LeetCode/tree/master/0090-subsets-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ramkumar0502/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Enumeration
 |  |
 | ------- |
